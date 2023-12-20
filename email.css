@@ -1,0 +1,18 @@
+.text-navy-blue {
+  color: #29286e;
+}
+.bg-img {
+  background-image: url(/image/email\ back.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.find-usbg {
+  background-color: #d2eaef;
+}
+
+.lastbg {
+  background-color: #030c35;
+}
+.bg-cream{
+ background-color:#DFE2F4;
+}
